@@ -1,4 +1,4 @@
-def find_fact(N)
+def find_fact(N):
     fact = 1
     for I in range(N,1,-1):
         fact = fact * I
